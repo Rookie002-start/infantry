@@ -1,0 +1,6 @@
+# 仓库根位于 projects/：只跟踪上下板两个项目与根目录的 README/.gitignore，其余一律忽略
+/*
+!/.gitignore
+!/README.md
+!/infantry_head/
+!/infantry_body/
